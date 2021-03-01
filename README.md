@@ -1,6 +1,6 @@
 # FluentLibraries 📚
 
-Collection of Fluent Libraries Repository.
+Collection of the Fluent libraries submodules.
 
 | Icon | Name | Description |
 | --- | --- | --- |
