@@ -1,0 +1,15 @@
+[submodule "FluentCommands"]
+	path = FluentCommands
+	url = https://github.com/onixion/FluentCommands
+[submodule "FluentExceptions"]
+	path = FluentExceptions
+	url = https://github.com/onixion/FluentExceptions
+[submodule "FluentArguments"]
+	path = FluentArguments
+	url = https://github.com/onixion/FluentArguments
+[submodule "FluentResults"]
+	path = FluentResults
+	url = https://github.com/onixion/FluentResults
+[submodule "FluentImages"]
+	path = FluentImages
+	url = https://github.com/onixion/FluentImages
