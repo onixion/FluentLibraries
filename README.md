@@ -1,7 +1,5 @@
 # FluentLibraries 📚
 
-Collection of the Fluent libraries submodules.
-
 | Icon | Name | Description |
 | --- | --- | --- |
 | <img src="https://github.com/onixion/FluentArguments/blob/main/Assets/Icon.jpg" width="100" height="100"> | [FluentArguments](https://github.com/onixion/FluentArguments) | Fluent library for argument validation. |
