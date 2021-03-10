@@ -13,3 +13,6 @@
 [submodule "FluentImages"]
 	path = FluentImages
 	url = https://github.com/onixion/FluentImages
+[submodule "FluentTesting"]
+	path = FluentTesting
+	url = https://github.com/onixion/FluentTesting
